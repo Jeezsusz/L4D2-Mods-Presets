@@ -12,4 +12,4 @@ Now you may open the game, where you can make your own preset by simply clicking
 
 If you're installing addons in-game but notice the program isn't detecting new Addons, you'll have to close the game and hit the ''Rescan'' button, this will make your freshly installed Addons appear in the program and ready to go as another preset. 
 
-Enjoy, made by Jeezsus!
+Enjoy, made by Jeezsus! (with a bit of help from Claude to make it executable)..
